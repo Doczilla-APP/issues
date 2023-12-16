@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="./.github/banner.png" alt="logo" />
-</h1>
+<img src="./.github/banner.png" alt="logo" />
 
 # 👋 Welcome to the Doczilla GitHub Repository!
 
