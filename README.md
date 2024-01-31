@@ -6,7 +6,7 @@ This is the space where you can engage with us directly, report any issues you e
 propose updates to our documentation.
 
 ## Links
-- [Dashboard](https://www.doczilla.app/login)
+- [Dashboard](https://doczilla.app/login)
 - [Documentation](https://docs.doczilla.app/introduction)
 - [Examples](https://docs.doczilla.app/examples/introduction)
 - [Node.js SDK](https://github.com/Doczilla-APP/doczilla-node)
